@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/emiliamassing/QuantFirefly/',
+  base: '/QuantFirefly/',
   define: {
     'process.env': {},
   },
